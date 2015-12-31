@@ -1,0 +1,4 @@
+[submodule "cv-gh-pages"]
+	path = cv
+	url = git@github.com:teloon/cv.git
+	branch = gh-pages
